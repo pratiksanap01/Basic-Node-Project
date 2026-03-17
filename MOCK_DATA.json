@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "first_name": "Cris",
-    "last_name": "Beinke",
-    "email": "cbeinke0@hc360.com",
-    "gender": "Female"
+    "first_name": "prasad",
+    "last_name": "mhasal",
+    "email": "prasad@gmail.com",
+    "gender": "male"
   },
   {
     "id": 2,
@@ -74,13 +74,6 @@
     "first_name": "Giuditta",
     "last_name": "MacPake",
     "email": "gmacpakea@princeton.edu",
-    "gender": "Female"
-  },
-  {
-    "id": 12,
-    "first_name": "Lila",
-    "last_name": "Byrne",
-    "email": "lbyrneb@about.me",
     "gender": "Female"
   },
   {
@@ -698,5 +691,26 @@
     "last_name": "Peeters",
     "email": "speeters2r@cbsnews.com",
     "gender": "Male"
+  },
+  {
+    "id": 101
+  },
+  {
+    "body": {
+      "first_name": "john",
+      "last_name": "doe",
+      "email": "snp@gmail.com",
+      "gender": "male"
+    },
+    "id": 102
+  },
+  {
+    "body": {
+      "first_name": "john",
+      "last_name": "doe",
+      "email": "snp@gmail.com",
+      "gender": "male"
+    },
+    "id": 103
   }
 ]
