@@ -16,54 +16,6 @@ A simple REST API built using **Node.js** and **Express.js** to perform CRUD ope
 
 ---
 
-## 🛠️ Tech Stack
-
-* Node.js
-* Express.js
-* File System (`fs` module)
-
----
-
-## 📂 Project Structure
-
-```
-Node Project 1/
-│
-├── MOCK_DATA.json   # Stores user data
-├── index.js         # Main server file
-├── package.json
-```
-
----
-
-## ⚙️ Installation
-
-1. Clone the repository
-
-```
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-2. Navigate to project folder
-
-```
-cd your-repo-name
-```
-
-3. Install dependencies
-
-```
-npm install
-```
-
-4. Start the server
-
-```
-npm run start
-```
-
----
-
 ## 🌐 Server
 
 ```
