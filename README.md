@@ -1,7 +1,7 @@
 # Basic-Node-Project
 # 📦 User Management REST API
 
-A simple REST API built using **Node.js** and **Express.js** to perform CRUD operations on user data stored in a JSON file.
+A simple REST API built using **Node.js** and **Express.js** to perform CRUD operations on user data stored in a Database.
 
 ---
 
@@ -12,7 +12,7 @@ A simple REST API built using **Node.js** and **Express.js** to perform CRUD ope
 * Create new user
 * Update existing user
 * Delete user
-* Data stored in `MOCK_DATA.json`
+* Data stored in Database
 
 ---
 
@@ -105,9 +105,10 @@ DELETE /api/users/1
 
 ## ⚠️ Important Notes
 
-* Data is stored in a JSON file (not a database)
+* Data is stored in a database
 * Server restart may reset in-memory changes
 * IDs are auto-generated
+* Tested using POSTMAN
 
 ---
 
